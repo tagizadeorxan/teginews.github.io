@@ -1,0 +1,28 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "1",
+                "name": "Future Insights"
+            },
+            "author": "Orkhan Taghizade",
+            "title": "The Great Reset: By 2030, Nobody Will Own Anything – A World of Renting and Restricted Lands",
+            "description": "I predict that by 2030, economic instability, climate crises, and global shifts will lead to a world where personal ownership disappears. People will only rent and live in controlled, small areas as resources are strictly allocated.",
+            "urlToImage": "https://i.ytimg.com/vi/atGjmF4Y08E/maxresdefault.jpg",
+            "publishedAt": "2025-01-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "2",
+                "name": "Global Future News"
+            },
+            "author": "Orkhan Taghizade",
+            "title": "The New World Order: A World Without Borders and National Governments",
+            "description": "By 2035, countries may no longer exist as independent entities. A unified global authority will take control, making national leaders irrelevant. Citizens will receive a basic monthly income—if they comply with the system.",
+            "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/2/22/Blank_map_of_world_no_country_borders.PNG",
+            "publishedAt": "2025-01-30T00:00:00Z"
+        }
+    ]
+}
