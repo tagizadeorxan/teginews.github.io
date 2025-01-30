@@ -1,4 +1,4 @@
-const apiKey = '2c35ef06c56b4c26a0fe06229b0677df'; // Replace with your API key
+const apiKey = '2c35ef06c56b4c26a0fe06229b0677df';
 const url = `https://newsapi.org/v2/top-headlines?category=technology&language=en&apiKey=${apiKey}`;
 
 async function fetchNews() {
