@@ -23,6 +23,30 @@
             "description": "By 2035, countries may no longer exist as independent entities. A unified global authority will take control, making national leaders irrelevant. Citizens will receive a basic monthly income—if they comply with the system.",
             "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/2/22/Blank_map_of_world_no_country_borders.PNG",
             "publishedAt": "2025-01-30T00:00:00Z"
+        },
+        {
+            "source": {
+                "id": "3",
+                "name": "Global Watch"
+            },
+            "author": "International Affairs Analyst",
+            "title": "A New Map of Eurasia: The Breakup of Russia After Its Defeat in 2025",
+            "description": "After years of military struggle, Russia's defeat in late 2025 leads to its division. New independent states emerge, reshaping the geopolitical landscape and global alliances.",
+            "urlToImage": "https://i.ytimg.com/vi/sbbMs9SK7iM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAb9wMqOFdVA9aOc5OHZ08im8AmbQ",
+            "publishedAt": "2025-01-30T10:00:00Z",
+            "content": "With the collapse of the Russian Federation, the world's political landscape is drastically altered. Various regions, including Siberia, the Urals, and the Far East, form new sovereign entities. The power vacuum leaves room for new alliances and potential conflicts as global leaders navigate this unprecedented change."
+        },
+        {
+            "source": {
+                "id": "4",
+                "name": "Economic Forecast 2030"
+            },
+            "author": "Financial Analyst Team",
+            "title": "Azerbaijani Manat Faces Sharp Devaluation: 1 USD to Reach 3 AZN by 2025",
+            "description": "Experts warn of an economic downturn as the Azerbaijani Manat is projected to lose significant value, falling from 1.7 AZN to at least 3 AZN per 1 USD due to inflation, external debts, and global financial instability.",
+            "urlToImage": "https://en.apa.az/storage/news/2024/september/11/big/66e150f38762366e150f387624172604235566e150f38762066e150f387622.png",
+            "publishedAt": "2029-12-31T23:59:59Z",
+            "content": "The financial landscape in Azerbaijan is set to change drastically by 2025, with the Manat expected to depreciate significantly. Economists cite rising inflation, increasing dependence on imports, and external pressures as major factors contributing to this downfall. Many investors are already shifting to USD and EUR as safer assets."
         }
     ]
 }
